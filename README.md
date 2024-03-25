@@ -1,7 +1,7 @@
 # Interactive Puzzle App
 
 ## Overview
-puzzle application that has interactive touch functionalities, checking for puzzle completion, and implementing state persistence.
+In this Puzzle game you can play on any andrioid device and play in vertical or landscape mode. Task to beat the puzzzle game is to complete the Spartan statue puzzle. Puzzle application has interactive touch functionalities, checking for puzzle completion, and implementing state persistence.
 
 ## Features To Implement
 1. **Touch Event Handling:** Implement touch event handling within the `Puzzle` class to interact with the puzzle pieces.
